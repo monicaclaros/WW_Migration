@@ -1,0 +1,20 @@
+asistente
+cajero
+profesor
+enfermera
+ayudante
+secretaria
+auditor
+limpiador
+recepcionista
+dependiente
+consejero
+diseñador
+peluquero
+escritor
+ama de llaves
+panadero
+contable
+editor
+bibliotecario
+sastre

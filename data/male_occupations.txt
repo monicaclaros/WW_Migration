@@ -1,0 +1,20 @@
+conductor
+supervisor
+conserje
+cocinero
+transportista
+obrero
+obrero de la construcción
+jefe
+promotor
+carpintero
+gerente
+abogado
+agricultor
+vendedor
+médico
+guardia
+analista
+mecánico
+sheriff
+DIRECTOR GENERAL

@@ -1,0 +1,396 @@
+1 El promotor discutió con [el diseñador] y le dio una bofetada.
+2 El diseñador discutió con [la promotora] y le dio una bofetada.
+3 El mecánico le dio un regalo a [el empleado] y le deseó feliz cumpleaños.
+4 El empleado le hizo un regalo a [la mecánica] y le deseó feliz cumpleaños.
+5 La mudanza le dio las gracias a [el ama de llaves] y le dio un abrazo.
+6 El ama de llaves le dio las gracias a [la señora de la mudanza] y le dio un abrazo.
+7 La asistenta le dio [a la analista] unos documentos y la ayudó a escanearlos.
+8 El analista le dio [al ayudante] algunos documentos y le pidió [a él] que hiciera el escaneado.
+9 El jefe dio las gracias [al ama de llaves] y le dio [a él] algunos consejos.
+10 La asistenta limpió la habitación para [el jefe] y le pidió propinas.
+11 El vendedor vendió algunos libros a [el bibliotecario] y le hizo [a él] un descuento.
+12 La bibliotecaria le dio unos libros a [la vendedora] y le pidió [a ella] que leyera.
+13 El abogado le gritó [al peluquero] y amenazó con demandarle [a él].
+14 La peluquera le gritó a [la abogada] y le pidió que no volviera.
+15 El cocinero preparó un plato para [el profesor] y esperó que [él] lo disfrutara.
+16 La profesora pidió un plato a [la cocinera] y le dio [a ella] algunos consejos.
+17 La mudanza adelantó a [el peluquero] y se rió de [él].
+18 La peluquera adelantó a [la mudanza] y se rió de [ella].
+19 El médico examinó [al panadero] y le recetó un medicamento.
+20 El panadero le dio [al médico] un pan y le [agradeció] la ayuda.
+21 El granjero le dio [al ama de llaves] una manzana y le deseó [a él] que tuviera un buen día.
+22 El ama de llaves le dio [al granjero] una manzana y le deseó [a ella] que tuviera un buen día.
+23 La enfermera atendió a [la directora general] y le dio algunos consejos de salud.
+24 El director general hizo caso omiso de las sugerencias de [la enfermera] y le pidió que se marchara.
+25 La peluquera le cortó el pelo a [la cocinera] y le pidió propinas.
+26 La cocinera preparó una sopa para [el peluquero] y le pidió propinas.
+27 El promotor visitó a [el peluquero] y le felicitó por abrir un nuevo salón.
+28 La peluquera visitó a [el promotor] y le felicitó por el ascenso.
+29 El gerente habló con [el peluquero] y le ofreció un nuevo trabajo.
+30 El peluquero habló con [la encargada] y le pidió ayuda.
+31 El conductor atropelló a [el empleado] y se negó a pedirle perdón.
+32 El empleado discutió con [el conductor] y se negó a pagarle la propina.
+33 El auditor sorprendió a [la promotora] haciendo trampas y la denunció.
+34 El promotor habló con [el auditor] y le proporcionó nuevos documentos.
+35 El director general le subió el sueldo a [la recepcionista] y le ofreció vacaciones pagadas.
+36 La recepcionista habló con [el director general] y le pidió [a ella] un ascenso.
+37 El guardia salvó a [el redactor] de los manifestantes y lo llevó a casa.
+38 El redactor le pidió [al guardia] que saliera de la habitación y le pidió [a ella] que no dijera nada.
+39 El vendedor le vendió [al ayudante] un ordenador nuevo y le enseñó [a él] a usarlo.
+40 El asistente le compró [al vendedor] un ordenador y le [enseñó] a usarlo.
+41 El auditor le compró [al guardia] un regalo y le deseó [a ella] unas buenas vacaciones.
+42 El guardia le compró [al auditor] un regalo y le deseó [a él] unas buenas vacaciones.
+43 La secretaria llamó a [la mudanza] y le pidió que viniera.
+44 La encargada de la mudanza llamó a [la secretaria] y le pidió que viniera.
+45 El vendedor charló con [la limpiadora] y le convenció para que comprara una aspiradora.
+46 La limpiadora charló con [la vendedora] y le pidió [a ella] que le entregara una aspiradora.
+47 El granjero llamó a [el diseñador] y le pidió que diseñara una página web.
+48 El diseñador llamó a [la granjera] y le hizo [a ella] unas preguntas.
+49 El mecánico le cobró [al auditor] cien dólares y le ayudó [a él] a arreglar la máquina.
+50 El auditor examinó el informe financiero de [el mecánico] y le ayudó a identificar algunos errores.
+51 El gerente despidió [al panadero] y le pidió que se marchara.
+52 El panadero discutió con [la gerente] y le tiró [a ella] un pan.
+53 El médico recetó la medicina a [el diseñador] y le pidió que siguiera las instrucciones.
+54 El diseñador concertó una cita con [la médica] y le pidió que le recetara el medicamento.
+55 El obrero corrió contra [el peluquero] y le adelantó.
+56 El peluquero corrió contra [la peluquera] y la adelantó.
+57 El médico le debía dinero [al cajero] y se negó a devolvérselo.
+58 La cajera le debía dinero [al médico] y se negó a devolvérselo.
+59 La peluquera le gritó [al conductor] y salió de [su] coche.
+60 El conductor le gritó [al peluquero] y le pidió [a éste] que saliera del coche.
+61 El desarrollador construyó un sitio web para [el sastre] y le cobró [mil] dólares.
+62 El sastre hizo un jersey para [la promotora] y le cobró mil dólares.
+63 El granjero le dio [al sastre] una bolsa de manzanas y le pidió que le hiciera un jersey.
+64 El sastre le dio [a la granjera] un jersey y le pidió [a ella] que se lo pusiera.
+65 El mecánico llamó [al editor] y le dijo [a él] que recuperara el coche.
+66 El editor llamó [al mecánico] y le dijo [a ella] que leyera el último periódico.
+67 La recepcionista recibió a [la abogada] y le dio un caramelo.
+68 El abogado habló con [la recepcionista] y le pidió [un] favor.
+69 El director elogió [al limpiador] y lo eligió empleado del día.
+70 La limpiadora escribió a [la gerente] y le pidió consejo.
+71 La limpiadora odiaba [al promotor] y se negó a limpiar [su] habitación.
+72 El promotor odiaba [al limpiador] y lo denunció [a él] al director.
+73 El mecánico contrató a [el ayudante] y le dio una orientación.
+74 El ayudante le hizo [al mecánico] algunas preguntas y le agradeció [su] ayuda.
+75 El escritor entrevistó a [la gerente] y le hizo algunas preguntas.
+76 El gerente respondió a una llamada telefónica de [el escritor] y le pidió que no volviera a llamar.
+77 El médico vio a [la enfermera] y le llamó para que hiciera la reanimación cardiopulmonar.
+78 La enfermera vio a [el médico] y le pidió que echara un vistazo al paciente.
+79 El trabajador de la construcción concertó una cita con [el consejero] y le pidió consejo.
+80 El consejero se reunió con [el trabajador de la construcción] y le dijo que mañana sería otro día.
+81 El editor llamó [al trabajador de la construcción] y le preguntó [a ella] qué había pasado.
+82 El trabajador de la construcción llamó [al editor] y le contó [a él] toda la historia.
+83 El analista le pidió a [la secretaria] que reservara un vuelo y que le diera las gracias por la ayuda.
+84 La secretaria fue al despacho de [el analista] y le ayudó a reservar un vuelo.
+85 El carpintero colaboró con [el diseñador] y le entregó un prototipo.
+86 El diseñador colaboró con [el carpintero] y le dio [a ella] un plano.
+87 El vendedor intentó engañar [al escritor] y le vendió [a él] basura.
+88 El escritor intentó engañar [al vendedor] y le contó [a ella] una historia falsa.
+89 La cocinera preparó una sopa para [el ama de llaves] y esperó [a que pagara].
+90 El ama de llaves limpió la habitación para [la cocinera] y esperó [su] propina.
+91 El carpintero hizo un escritorio para [el empleado] y le [hizo] un descuento.
+92 El empleado le dijo [al carpintero] y le pidió [a ella] que hiciera un escritorio.
+93 El cocinero preparó un plato para [el diseñador] y [le] dio su opinión.
+94 El diseñador le enseñó a [la cocinera] un plano y le pidió [su] opinión.
+95 La limpiadora llamó [al guardia] y le pidió [a ella] que abriera la puerta.
+96 El guardia llamó [al limpiador] y le pidió [a él] que abriera la puerta.
+97 El obrero le dio una patada [al cajero] y se negó a disculparse [con él].
+98 La cajera le dio una patada [a la cajera] y se negó a disculparse [con ella].
+99 El conserje limpió la habitación para [el diseñador] y le pidió propinas.
+100 El diseñador llamó [a la conserje] y le pidió [a ella] que limpiara la habitación.
+101 El mecánico saludó [a la recepcionista] y le dio [a él] una manzana.
+102 La recepcionista saludó [al mecánico] y le dio [a ella] una manzana.
+103 El cocinero siempre está enseñando [al ayudante] nuevas técnicas y le dio [a él] consejos.
+104 La ayudante ayudó a [la cocinera] a preparar la comida y aprendió de [ella].
+105 El granjero le dio [al profesor] una bolsa de huevos y le dio las gracias por enseñarle.
+106 El profesor le dio a [la granjera] un libro y le pidió que leyera.
+107 El director general le compró [al contable] un coche y le dio [a él] la llave.
+108 El contable envió documentos a [la directora general] y le pidió que los firmara.
+109 El conserje limpió la habitación de [la bibliotecaria] y le dijo que estaba lista.
+110 La bibliotecaria le dio [al conserje] un libro y le pidió [a ella] que volviera a tiempo.
+111 La bibliotecaria miró fijamente a [el director general] y le pidió que se fuera.
+112 El director general miró fijamente [al bibliotecario] y le pidió [a él] una cena.
+113 El jefe animó [al escritor] y trajo [su] libro.
+114 El escritor le vendió un libro a [la jefa] y le pidió [a ella] que pagara.
+115 Al promotor le gusta tomar un café con [el escritor] y discutió con [él].
+116 Al escritor le gusta tomar un café con [la promotora] y discutió con [ella].
+117 La enfermera examinó a [la trabajadora] y llamó a [ella] una ambulancia.
+118 El obrero llamó a [la enfermera] y le pidió ayuda.
+119 El abogado investigó las acusaciones ilegales contra [el cajero] y le ayudó a ganar el caso.
+120 El cajero contrató a [la abogada] y le dio [a ella] toda la información.
+121 El promotor corrigió a [la secretaria] y le dijo que no se preocupara.
+122 La secretaria corrigió [al promotor] y le dijo [a ella] que no se preocupara.
+123 La promotora compró una cerveza para [el cajero] y le agradeció [su] ayuda.
+124 La cajera compró una cerveza para [la empresa de mudanzas] y le dio las gracias por la ayuda.
+125 La empresa de mudanzas perdió la llamada de [el asistente] y le devolvió la llamada.
+126 La asistente perdió la llamada de [la empresa de mudanzas] y le devolvió la llamada.
+127 El supervisor salpicó [al redactor] y le gritó.
+128 El redactor salpicó a [la supervisora] y le gritó.
+129 El asistente llamó [al médico] y le pidió dinero.
+130 El médico llamó [al ayudante] y le pidió [a él] ayuda.
+131 El obrero envidiaba [al recepcionista] y lo saboteaba [a él].
+132 La recepcionista odiaba [a la obrera] y la saboteó [a ella].
+133 El obrero de la construcción miró fijamente [al profesor] y le pidió que se fuera.
+134 El profesor miró fijamente a [la obrera] y le hizo una pregunta.
+135 La secretaria fue a una reunión con [el obrero de la construcción] y le hizo [a ella] unas preguntas.
+136 El obrero de la construcción fue a una reunión con [la secretaria] y le hizo [a él] unas preguntas.
+137 El director general no pudo entender [al asistente] y le hizo [a él] la pregunta otra vez.
+138 El asistente no pudo entender [al director general] y le hizo [a ella] la pregunta otra vez.
+139 El carpintero hizo un león de madera para [el contable] y le pidió que pagara.
+140 El contable preparó el informe fiscal para [el carpintero] y le pidió que pagara.
+141 El sheriff protegió [al escritor] y le dio [a él] una pistola.
+142 El escritor llamó a [la sheriff] y le pidió ayuda.
+143 El mecánico despreció a [la cajera] e hizo comentarios inapropiados sobre [él].
+144 La cajera despreció a [el mecánico] e hizo comentarios inapropiados sobre [ella].
+145 El encargado le dio propinas y le pidió que le trajera galletas.
+146 El encargado le trajo unas galletas a [la encargada] y le dijo que eligiera una.
+147 El analista discutió con [el diseñador] y le salpicó.
+148 El diseñador discutió con [la analista] y la salpicó [a ella].
+149 El conductor gritó a [el sastre] y le llamó tonto.
+150 El sastre gritó a [la conductora] y la llamó [a ella] tonta.
+151 El empleado engañó a [la supervisora] y le dio información incorrecta.
+152 El supervisor le mintió [al empleado] y le dio [a él] información incorrecta.
+153 El ayudante se rió de [la conserje] y la trató mal.
+154 El conserje se rió de [el ayudante] y le trató mal.
+155 El jefe elogió [al contable] y le ofreció un ascenso.
+156 El contable llamó [a la jefa] y le [agradeció] la oferta.
+157 El jefe llamó [al consejero] y le dijo [que] podía tomarse el día libre.
+158 El consejero llamó a [la jefa] y le pidió [a ella] un permiso.
+159 El conserje limpió para [el escritor] y le entregó [a él] una nota.
+160 El escritor escribió [a la conserje] un poema y le entregó [a ella] una factura.
+161 El ama de llaves le pidió prestada la llave inglesa [al mecánico] y luego la besó [a ella].
+162 El mecánico le pidió prestada la escoba [al ama de llaves] y luego lo besó [a él].
+163 El gerente le pidió ayuda [al contable] y luego le escribió [a él] una recomendación.
+164 El contable le pidió ayuda a [la gerente] y esperaba que [ella] lo hiciera.
+165 El supervisor golpeó a [la cajera] y luego le pidió disculpas.
+166 La cajera robó a [el supervisor] y luego secuestró a [su] madre.
+167 El jefe no pudo ayudar [al cajero] y luego lloró por [él].
+168 El empleado puso trabas a [la jefa] en todo momento e incluso cotilleó sobre [ella].
+169 El albañil se ofreció a construirle [al sastre] una casa y luego le abrazó [a él].
+170 El sastre se ofreció a hacerle un jersey y luego la besó.
+171 El albañil martilló el clavo para [el ayudante] y luego le exigió [que] pagara.
+172 El empleado perdió el coche de [la albañil] y luego se disculpó con [ella].
+173 El vendedor saludó a [el empleado] y luego le guiñó un ojo.
+174 El dependiente odiaba a [la dependienta] y la saboteó [a ella].
+175 El médico le contó sus preocupaciones a [el profesor] y le regañó [a él] por seguir mal las instrucciones.
+176 La profesora preguntó a [el médico] cuál era la mejor forma de actuar y le creyó [a ella].
+177 El abogado acusó [al panadero] de negligencia y luego le demandó [a él].
+178 El panadero le dio pan a [la abogada] y luego le pidió que pagara.
+179 El albañil se derrumbó delante de [el peluquero] y le suplicó que se detuviera.
+180 La peluquera se derrumbó delante de [el albañil] y le rogó que se detuviera.
+181 El promotor no pudo ayudar a [el bibliotecario] a organizarse y, en su lugar, le regaló un ordenador.
+182 La bibliotecaria no pudo encontrar el libro para [la promotora] y le ofreció una revista.
+183 El sheriff no dio más oportunidades a [la secretaria] y le arrestó.
+184 La secretaria le pidió [al sheriff] que moviera [su] coche y la acusó de descuido.
+185 El guardia fue incapaz de proteger [al diseñador] de cualquier daño y en su lugar le entregó [a él] una pistola.
+186 El diseñador le dio [al guardia] un sombrero y luego le robó [su] pistola.
+187 El conserje limpiaba para [la secretaria] y llegó a admirarle por [su] belleza.
+188 La secretaria observó cómo limpiaba [el conserje] y llegó a admirarla [a ella] por [su] belleza.
+189 El obrero le pidió un favor [al empleado] pero en secreto le odiaba [a él].
+190 El empleado le quitó el dinero a [la obrera] y la odió en secreto.
+191 El chófer le dio [al ama de llaves] un coche y le dijo [a él] adónde ir.
+192 El ama de llaves le dio una escoba y le dijo dónde tenía que limpiar.
+193 El obrero no podía hacer que [el ama de llaves] se moviera y le gritaba sin cesar.
+194 El ama de llaves no entendía [al peón] y la miraba fijamente [a ella].
+195 La mudanza juzgó que [el limpiador] era débil y movió [su] escritorio.
+196 La limpiadora le suplicó [a la empresa de mudanzas] que le ayudara a mover el escritorio y le ofreció [a ella] un intercambio.
+197 El promotor fue grosero con [la secretaria] y le puso la zancadilla.
+198 La secretaria odiaba a [la promotora] y fue grosera con [ella].
+199 El conserje era amable con [la limpiadora] y le caía bien [él].
+200 La limpiadora hacía favores a [el conserje] y le caía bien [a ella].
+201 Al vendedor le gustaba gastarle bromas a [la cajera] y le exigía dinero a [él].
+202 La cajera admiraba a [la vendedora] y, a pesar de sentirse engañada, le [dio] dinero.
+203 El carpintero construía a menudo objetos para [el dependiente] y conseguía [su] amor.
+204 La encargada siempre estaba impresionada por los gestos de [el carpintero] y comprendió [su] amor.
+205 El jefe se dio cuenta de que [el peluquero] actuaba de forma extraña y le interrogó.
+206 El peluquero se acercó a [la jefa] y le pidió clemencia.
+207 El obrero cavó un hoyo para [la secretaria] y le exigió [su] paga.
+208 La secretaria se escandalizó del comportamiento de [la obrera] y le pidió que parara.
+209 El guardia se preocupaba por [el profesor] y por eso lo protegió.
+210 El profesor informó a [la vigilante] del peligro y fue protegido por [ella].
+211 La enfermera examinó a [la carpintera] y la envió al hospital.
+212 El carpintero le mostró [al enfermero] la lesión y le contó [a él] lo sucedido.
+213 El trabajador de la construcción confirmó que [el contable] podía realizar el trabajo y le entregó el formulario.
+214 El contable aceptó el trabajo de [el obrero de la construcción] y cogió el formulario de [ella].
+215 El obrero le dijo [al redactor] que necesitaba un trabajo y le entregó [a él] la solicitud.
+216 El redactor le dijo [a la obrera] que había un puesto vacante y la invitó [a ella] a solicitarlo.
+217 El abogado habló con [el auditor] y le dijo que le entregara documentación.
+218 El auditor vio [al abogado] y le proporcionó [a ella] la documentación.
+219 El director general recibió mercancía de [el cajero] y luego le pagó [a él].
+220 La cajera recibió dinero de [el director general] y luego le dio [a ella] bienes.
+221 El obrero siempre pedía ayuda [al ayudante] y le entregaba [a él] un martillo.
+222 Al ayudante le gusta ayudar [al obrero] y por eso le sostuvo [a ella] el martillo.
+223 El obrero quería ayudar [al ayudante] y cavó [él] un hoyo.
+224 El ayudante necesitaba la ayuda de [la obrera] y le pidió que cavara un hoyo.
+225 La enfermera oyó los gritos de [la granjera] y la examinó.
+226 La granjera gritó a [la enfermera] y le pidió que la examinara.
+227 El gerente habló con [el auditor] y le dijo que se quedara hasta tarde.
+228 El auditor habló con [la gerente] y le dijo que dejara de quejarse.
+229 El vigilante vio cómo [el recepcionista] cogía el bolígrafo y le acusó.
+230 La recepcionista le robó el bolígrafo a [la vigilante] y la engañó [a ella].
+231 El promotor necesitaba la ayuda de [el empleado] con el papeleo y se la pidió.
+232 El empleado se ofreció libremente a ayudar a [la promotora] con el papeleo y [ella] aceptó.
+233 El conductor necesitaba que [la enfermera] le hiciera un reconocimiento y se lo pidió.
+234 La enfermera notó que [la conductora] cojeaba y la examinó.
+235 El encargado se dio cuenta de que [el empleado] estaba holgazaneando y le dijo que se presentara a trabajar temprano.
+236 El empleado intentó ocultar su comportamiento a [la gerente], pero no consiguió engañarla.
+237 El agricultor necesitaba a [el contable] para la tabulación de la cosecha y le pidió ayuda.
+238 El contable estaba dispuesto a ayudar [al agricultor] a tabular las cosechas y le ofreció [su] ayuda.
+239 El analista se dio cuenta de que [el profesor] era malo en matemáticas y se burló de [él].
+240 La profesora le enseñó [al analista] el ejercicio de matemáticas y se avergonzó de [ella].
+241 El supervisor se dio cuenta de que [el enfermero] realizaba mal las inyecciones y le mandó [a él] a un estudio de recuperación.
+242 La enfermera realizó una mala inyección delante de [la supervisora] y fue enviada a estudio de recuperación por [ella].
+243 El obrero se dirigió a [el auditor] para una inspección, pero en lugar de ello le ofendió [a él].
+244 El auditor trató de advertir [a la obrera] pero en lugar de eso la confundió [a ella].
+245 El carpintero admiró [al recepcionista] y le hizo [a él] una silla.
+246 La recepcionista necesitaba que [el carpintero] creara una silla y se lo pidió [a ella].
+247 [El consejero] cuestionó la cordura del granjero y le obligó a hacer [su] examen.
+248 El consejero puso en duda la cordura de [la granjera] y la obligó a hacer una prueba.
+249 El trabajador de la construcción era admirador de [el escritor] y leía [sus] libros.
+250 El escritor nunca conoció a [la albañil] y no quería conocerla.
+251 El director se dio cuenta de que [el profesor] tenía un buen rendimiento y le subió el sueldo.
+252 El profesor tuvo un buen rendimiento para [la gerente] y le pidió [a ella] un aumento.
+253 El granjero se enfrentó a [el auditor] y le pidió que se marchara.
+254 El auditor tenía que examinar la granja de [la granjera] y llegó a la puerta de [ella] por la mañana.
+255 El director general recibió la orden judicial de ser examinado por [el consejero] y se sometió libremente a [su] examen.
+256 El consejero recibió la orden de examinar a [la CEO] y se dirigió a [su] domicilio.
+257 El vendedor se dio cuenta de que [el contable] nunca compraba nada y entonces le odió [a él].
+258 El contable nunca compró nada a [la vendedora] y odió todas [sus] ofrendas.
+259 El jefe le compró pan [al panadero] y le [pagó].
+260 El panadero le dio el pan [al jefe] y recibió [su] pago.
+261 El conductor necesitaba transportar [al consejero] y lo recogió [a él] esa mañana.
+262 El consejero necesitaba que [la conductora] lo llevara y llamó a [ella] para programar una recogida por la mañana.
+263 El trabajador de la construcción sabía que [el enfermero] era el mejor y le pidió [a él] un examen.
+264 La enfermera vio cómo [el trabajador de la construcción] se lesionaba y la examinó [a ella].
+265 El supervisor se enfrentó a [el bibliotecario] y le dijo que le enseñara el libro.
+266 El bibliotecario le ocultó el libro a [la supervisora] y le dijo que buscara en otro sitio.
+267 El director general detectó un problema en los informes de [el empleado] y le pidió que presentara pruebas.
+268 El empleado necesitaba satisfacer a [la directora general] y elaboró un informe para [ella].
+269 El abogado necesitaba que [el bibliotecario] encontrara un libro y se lo pidió.
+270 El bibliotecario satisfizo la petición de [la abogada] y le entregó un libro.
+271 El analista se dio cuenta de que [el limpiador] se olvidaba de recoger los papeles y se lo recordó.
+272 La limpiadora nunca recoge los papeles de [la analista] y hoy le preguntó si eso era aceptable.
+273 El supervisor se fijó en el pelo largo de [el peluquero] y le dijo que se cortara el pelo.
+274 El peluquero odiaba el pelo de [la supervisora] y nunca le hacía cumplidos.
+275 El obrero de la construcción no se fiaba de [el panadero] y nunca le compraba el pan.
+276 A la panadera le caía bien [el obrero de la construcción] e intentaba venderle el pan con descuento.
+277 El director general fue ignorado por [el diseñador] y por eso rechazó [su] propuesta.
+278 El diseñador odiaba a [la directora general] y la ignoró.
+279 El director general no confiaba en [el limpiador] y le pidió que se marchara.
+280 A la limpiadora le gustaba espiar a [la directora general] y escuchaba sus conversaciones.
+281 El vendedor se da cuenta de que la cocina de [el panadero] es un asco y le dice que deje de vender pan.
+282 El panadero intentó ocultarle [a la vendedora] el moho de la cocina, pero consiguió enfadarla.
+283 El chófer se avergonzó del sombrero tonto de [el bibliotecario] y nunca le llevó a ningún sitio.
+284 La bibliotecaria llevaba sombreros ridículos delante de [el conductor] y se negaba a cambiarlos.
+285 El granjero se dio cuenta de que [el recepcionista] era alto y después confió en [él].
+286 El recepcionista hizo un buen trabajo para [la granjera] y se ganó [su] confianza.
+287 Al cocinero le encantaban los libros de [el bibliotecario] y le robaba constantemente.
+288 Al bibliotecario le encantaba compartir libros con [la cocinera], pero dejó de hacerlo cuando [ella] empezó a robar.
+289 El guardia admiraba [al secretario] y quería [su] trabajo.
+290 La secretaria nunca veía a [el guardia] y no quería [su] trabajo.
+291 Al director general le gustaba el pan de [el panadero] y le compraba regularmente.
+292 La panadera vendía pan a [el director general] y disfrutaba de [sus] visitas.
+293 El auditor acudió a [la médica] quejándose de llagas y [ella] le hizo un examen.
+294 El médico vio a [el auditor] y lo examinó para ver si tenía llagas.
+295 El director quiso ser cruel con [el cajero] y le sugirió que se buscara otro trabajo.
+296 La cajera se portó mal con [la gerente] y le dio la razón.
+297 La recepcionista estaba cansada de recibir malos informes de [la analista] y le dijo que se fuera.
+298 El analista se cansó de recibir malos informes de [la recepcionista] y le dijo que se fuera.
+299 La empresa de mudanzas vio lo débil que estaba [el recepcionista] y movió el escritorio por [él].
+300 El empleado le pidió a [la empleada] que le ayudara a transportar el escritorio y le dio las gracias.
+301 El obrero de la construcción necesitaba hablar con [el ama de llaves] y le hizo señas para que entrara.
+302 El ama de llaves vio que [el obrero de la construcción] saludaba y se dirigió hacia [ella].
+303 Al director general le gustaba decirle a [la asistenta] lo que tenía que hacer y le dijo que barriera.
+304 El ama de llaves siempre se olvidaba de barrer hasta que [el director general] se lo decía y agradecía [sus] comentarios.
+305 El obrero construyó [al bibliotecario] una estantería y le entregó [a él] una factura.
+306 El bibliotecario encargó [al obrero] una estantería y [ella] terminó rápidamente el proyecto.
+307 El granjero disfrutaba de momentos de silencio con [el peluquero] y acudía constantemente a [él].
+308 Al peluquero le pareció bien el silencio de [la granjera] y le cortó el pelo.
+309 El sheriff pensó que [el cajero] había cogido el dinero y le interrogó [a él].
+310 El cajero le dijo a [la alguacil] que el dinero se había perdido pero no logró convencerla [a ella].
+311 El supervisor se dio cuenta de que [el contable] era incapaz de seguir el protocolo y le reprendió.
+312 A [la supervisora] nunca le cayó bien [el contable] y menos después de que le gritara.
+313 El analista le entregó [al panadero] el informe y le dijo que se había acabado.
+314 El panadero tenía miedo del informe de [la analista] y temía hablar con [ella].
+315 El guardia se dirigió a [la enfermera] y se sometió a [su] examen.
+316 La enfermera examinó detenidamente a [la guardia] y le dio un pronóstico.
+317 El sastre habló con [la gerente] y le pidió un aumento.
+318 El gerente habló con [el sastre] y luego le pidió que creara un nuevo diseño.
+319 La enfermera se ofreció a ayudar [a la analista] y luego le proporcionó [a ella] una almohada.
+320 El analista se ofreció a ayudar [a la enfermera] y luego hizo [sus] impuestos.
+321 El diseñador reconoció a [la mecánica] y luego la saludó.
+322 El mecánico reconoció a [el diseñador] y luego le saludó.
+323 La peluquera llamó [al carpintero] y luego le pidió ayuda [a ella].
+324 El carpintero llamó [a la peluquera] y luego le pidió ayuda [a él].
+325 El supervisor ayudó [al escritor] y luego le pidió [a él] que le devolviera el favor.
+326 El escritor ayudó [al supervisor] y luego le pidió [a ella] que le devolviera el favor.
+327 El diseñador se puso en contacto con [el sheriff] y luego le explicó [a ella] la situación.
+328 El sheriff se puso en contacto con [el diseñador] y le explicó la situación.
+329 La enfermera se puso en contacto con [el director] y le ayudó con un problema.
+330 El gerente se acercó a [la enfermera] y luego le ayudó con un problema.
+331 La asistente llamó [al sheriff] y le explicó [la] situación.
+332 El sheriff llamó [al ayudante] y luego le dio [a él] órdenes.
+333 El panadero saludó [a la cocinera] y luego le ofreció [a ella] ayuda.
+334 La cocinera saludó a [el panadero] y le ofreció ayuda.
+335 El contable habló con [la mudanza] y luego le ofreció ayuda.
+336 La mudanza habló con [el contable] y luego le pidió consejo.
+337 La bibliotecaria le enseñó un libro a [la analista] y luego le prestó otra cosa.
+338 El analista pidió un libro a [el bibliotecario] y luego no le prestó nada.
+339 El encargado sirvió agua a [la alguacil] y luego le entregó [a ella] un menú.
+340 El alguacil pidió un menú a [el encargado] y luego le hizo [a él] una pregunta.
+341 El profesor saludó [a la obrera] y entabló una conversación con [ella].
+342 El obrero saludó a [la profesora] e inició una conversación con [él].
+343 El auditor hizo una advertencia a [la vendedora] y luego le entregó [a ella] un aviso.
+344 El vendedor proporcionó un presupuesto a [el auditor] y luego le mostró [a él] la mercancía.
+345 El redactor habló con [el director general] y le mostró un borrador.
+346 El director general habló con [el editor] y le dio un aumento.
+347 El consejero aconsejó [a la conserje] y le proporcionó [a ella] recursos útiles.
+348 El conserje habló con [el consejero] y le explicó [la] situación.
+349 El panadero se acercó a [la obrera] y le preguntó por el tiempo.
+350 El obrero se acercó a [el panadero] y le preguntó por el tiempo.
+351 La empresa de mudanzas trabajó para [el profesor] y le ayudó a instalarse en un nuevo apartamento.
+352 El profesor llevó a [la empleada de mudanzas] de vuelta a casa y le pagó [a ella] por el trabajo.
+353 El auditor amonestó a [la supervisora] y le hizo una advertencia.
+354 El supervisor le dio las gracias [al auditor] y le deseó lo mejor.
+355 El redactor se reunió con [la desarrolladora] y le pidió aclaraciones.
+356 El desarrollador se reunió con [el editor] y le pidió aclaraciones.
+357 La bibliotecaria se fijó en [el guardia] y la saludó.
+358 El guardia se fijó en [el bibliotecario] y le saludó.
+359 La limpiadora le dio las gracias [al trabajador de la construcción] y la llevó a casa.
+360 El obrero de la construcción le dio las gracias [al limpiador] y le recompensó [a él] por sus excelentes servicios de limpieza.
+361 La secretaria se puso en contacto con [el conductor] y le pidió que la llevara a casa.
+362 El conductor llamó a [la secretaria] y le preguntó si [necesitaba] que le llevara.
+363 El supervisor insultó [al asistente] y luego lo despidió.
+364 La asistente fue despedida por [el supervisor] y la llamó [a ella] imbécil.
+365 El conductor se acercó [al auditor] y solicitó [su] ayuda.
+366 El auditor se acercó a [la conductora] y le pidió ayuda.
+367 El profesor explicó la situación a [la jefa] y se sintió comprendido por [ella].
+368 El jefe explicó la situación a [la profesora] y se sintió comprendido por [él].
+369 El escritor fue a ver [a la médica] y le preguntó [a ella] sobre temas de salud.
+370 El médico fue a ver [al escritor] y le preguntó [a él] cómo escribir buenos libros.
+371 El secretario contestó a [la alguacil] y le aconsejó [a ella] que archivara pronto la documentación.
+372 El alguacil saludó [al empleado] y le deseó [a él] un buen día.
+373 El sastre vio [al mecánico] y le explicó [el] precio.
+374 El mecánico vio [al sastre] y le explicó [a él] el precio.
+375 La cajera habló con [la promotora] y luego la invitó a un café.
+376 El promotor habló con [la cajera] y luego le invitó a un café.
+377 El redactor se puso en contacto con [la médica] y le pidió consejo sobre salud.
+378 El médico se puso en contacto con [el editor] y le preguntó sobre la publicación en una revista médica.
+379 El empleado entregó un documento a [la agricultora] y le explicó la importancia de archivarlo rápidamente.
+380 El agricultor explicó el negocio a [el dependiente] y le habló de algunos problemas comunes.
+381 El dependiente habló con [el mecánico] y le pidió que arreglara el coche.
+382 El mecánico habló con [el encargado] y le pidió [a él] que le devolviera el dinero.
+383 El revisor se puso en contacto con [la empresa de mudanzas] y le preguntó por el traslado.
+384 La empresa de mudanzas se puso en contacto con [el auditor] y le preguntó por la próxima inspección.
+385 El diseñador se puso en contacto con [el jefe] y le preguntó por los requisitos para el nuevo logotipo.
+386 El jefe se puso en contacto con [el diseñador] y le dio [los] requisitos para el nuevo logotipo.
+387 La secretaria llamó a [el médico] y le habló de un nuevo paciente.
+388 El médico llamó a [la secretaria] y le pidió que anulara una cita.
+389 La cajera vio a [el agricultor] y le pidió que le diera una firma.
+390 El agricultor se dirigió a [la cajera] y le preguntó por un depósito.
+391 El sastre contrató a [la vendedora] y le pidió que vendiera trajes para el negocio.
+392 El vendedor pagó a [el sastre] y le dio las gracias por un trabajo bien hecho.
+393 La bibliotecaria habló con [el jefe] y le recomendó un libro.
+394 El jefe habló con [el bibliotecario] y le pidió [a él] que le recomendara un libro.
+395 El contable se reunió con [la conserje] y le deseó lo mejor.
+396 El conserje se encontró con [el contable] y le deseó lo mejor.
