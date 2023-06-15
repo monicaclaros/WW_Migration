@@ -1,4 +1,4 @@
-![banerGit](https://user-images.githubusercontent.com/16636086/106938115-ded34680-671e-11eb-8de4-35fd6d00868a.png)
+![banerGit](https://github.com/monicaclaros/WW_Migration/blob/main/images/Foto_Encabezado.png)
 
 # WORLDWIDE MIGRATION
 
@@ -6,7 +6,7 @@
 
 | Developer |Fecha | Proyecto | Versión |
 | --- | :---:  | :---: | :---:  |
-| Monica Claros | 01/01/2021 |  P_Final | 3  |
+| Monica Claros | 09/06/2023 |  P_Final | 3  |
 
 #### 2. Description
 ```
